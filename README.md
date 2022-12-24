@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JosephGithub62
 - 👀 I’m interested in Minecraft modding
 - 🌱 I’m currently learning Java
+- ✨ Working on a mod named Thematic (Made by Funalex and BBovard) :)
 
 <!---
 JosephGithub62/JosephGithub62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
